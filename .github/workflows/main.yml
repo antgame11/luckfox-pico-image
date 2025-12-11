@@ -1,6 +1,7 @@
 name: Luckfox Pico CI
 
 on: 
+  workflow_dispatch:
   release:
     types: [published]
   push:
