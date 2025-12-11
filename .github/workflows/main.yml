@@ -1,4 +1,4 @@
-name: ci
+name: Luckfox Pico CI
 
 on: 
   release:
