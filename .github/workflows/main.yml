@@ -31,7 +31,7 @@ jobs:
       matrix:
         device:
           # - pico-mini-b
-          - pico
+          - pico-mini-b
           # - pico-pro-max
 
     runs-on: ubuntu-latest
